@@ -13,8 +13,7 @@
 - 📫 How to reach me... PM me or visit one of the below sites.
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anne-riber-wiemers-9a82b01b6/)
 - 🔗 Xing: [Xing](https://www.xing.com/profile/AnneRiber_Wiemers/web_profiles?expandNeffi=true)
-- - <img src="https://![Untitled-1](https://github.com/LopsieLop/LopsieLop/assets/156115192/f107a877-14ff-4ad5-8727-c14b2a199df2/" alt="Java Developer Badge" width="100" height="100">
-)
+- ![Untitled-1](https://github.com/LopsieLop/LopsieLop/assets/156115192/f107a877-14ff-4ad5-8727-c14b2a199df2)
 
 
 
