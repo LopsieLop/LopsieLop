@@ -14,7 +14,7 @@
 - 🔗 LinkedIn: [LinkedIn](https://www.linkedin.com/in/anne-riber-wiemers-9a82b01b6/)
 - 🔗 Xing: [Xing](https://www.xing.com/profile/AnneRiber_Wiemers/web_profiles?expandNeffi=true)
 
-![Untitled](https://github.com/LopsieLop/LopsieLop/assets/156115192/ebe3dd8c-f584-4436-b91d-e05c97e8e342))
+![Untitled](https://github.com/LopsieLop/LopsieLop/assets/156115192/ebe3dd8c-f584-4436-b91d-e05c97e8e342)
 
 
 <!---
