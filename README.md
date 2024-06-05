@@ -6,8 +6,8 @@
 
 - ⚡ Fun fact: I speak 3 languages (Danish, German and English) and i'm a totally newbie in programming
 
-- LinkedIn: (https://www.linkedin.com/in/anne-riber-wiemers-9a82b01b6/)
-- Xing: (https://www.xing.com/profile/AnneRiber_Wiemers/web_profiles?expandNeffi=true)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anne-riber-wiemers-9a82b01b6/)
+- Xing: [Xing](https://www.xing.com/profile/AnneRiber_Wiemers/web_profiles?expandNeffi=true)
 
 
 <!---
