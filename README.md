@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LopsieLop aka Anne
 - 😄 Pronouns: she/her
   
-- 🌱 I just finished my Java Certificate programm with the grade 1. (best grade in Germany)
+- 🌱 I just finished my Certified Java Developer program with the grade 'Very good'/'Sehr gut' aka 1. (best grade in Germany)
 - 🎓 [Java Developer Badge](https://www.sgd.de/zertifikat-validierung.html?credential=796b8fdb-3f05-4242-a689-36171f8b3bb2)
 
 - 🌱 Keeping my Education going @ Udemy, to learn more and get more practice.
